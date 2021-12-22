@@ -50,17 +50,17 @@ class _page1State extends State<page1> {
           children: [
             Container(
               color: Colors.orange,
-              width: 150,
+              width: 160,
               height: 40,
             ),
             Container(
               color: Colors.white,
-              width: 150,
+              width: 160,
               height: 40,
             ),
             Container(
               color: Colors.green,
-              width: 150,
+              width: 160,
               height: 40,
             ),
           ],
